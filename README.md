@@ -1,2 +1,2 @@
-# Cake Sapient Middleware
+# Cake Sapient
 Sapient Integration for CakePHP
